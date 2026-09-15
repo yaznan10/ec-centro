@@ -3,8 +3,14 @@
     "name": "ec-centro",
     "slug": "ec-centro",
     "version": "1.0.0",
+    "owner": "yaznan10",
     "android": {
       "package": "com.ece000.centro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0eacc33c-a017-4ce9-b5e6-2ae65a57c579"
+      }
     }
   }
 }
