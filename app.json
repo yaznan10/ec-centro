@@ -4,6 +4,8 @@
     "slug": "ec-centro",
     "version": "1.0.0",
     "owner": "ece000",
+    "orientation": "portrait",
+    "platforms": ["android"],
     "android": {
       "package": "com.ece000.centro"
     },
