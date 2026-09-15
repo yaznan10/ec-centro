@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "Envio centro Express",
+    "name": "ec-centro",
     "slug": "ec-centro",
-    "version": "3.2.0",
+    "version": "1.0.0",
     "android": {
-      "package": "com.ece000.centro",
-      "versionCode": 32
+      "package": "com.ece000.centro"
     }
   }
 }
