@@ -3,7 +3,7 @@
     "name": "ec-centro",
     "slug": "ec-centro",
     "version": "1.0.0",
-    "owner": "yaznan10",
+    "owner": "ece000",
     "android": {
       "package": "com.ece000.centro"
     },
