@@ -32,4 +32,4 @@ export default function Cotizar() {
         <Text style={{ color: "#fff", fontWeight: "bold", fontSize: 16 }}>CALCULAR COSTO REAL</Text>
       </TouchableOpacity>
       {resultado !== null && (
-        <View style={{ marginTop: 25, backgroundColor: "#
+        <View style={{ marginTop: 25, backgroundColor: "#f5f5f5",
